@@ -1,0 +1,23 @@
+.cnUserBageRoot {
+    display: flex;
+    cursor: pointer;
+
+}
+.cnUserBageavatarUrl {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+.cnUserBagePlacejold{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: #efefef;
+}
+.cnUserBagespan {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+}
